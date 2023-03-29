@@ -7,7 +7,9 @@
 
 ---
 ### Задание 2.
- 
+
+![image](https://user-images.githubusercontent.com/122415129/228674963-eb3f0faf-7cd4-47d5-bc80-fb0dbfc87390.png)
+
 ---
 ### Задание 3.
 
