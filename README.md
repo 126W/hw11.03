@@ -12,6 +12,8 @@
 ---
 ### Задание 3.
 
+![image](https://user-images.githubusercontent.com/122415129/229369610-8793628f-f272-4968-9bb4-eb7122668baa.png)
+
 ---
 ### Задание 4.
 
