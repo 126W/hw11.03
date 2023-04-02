@@ -12,7 +12,7 @@
 ---
 ### Задание 3.
 
-![image](https://user-images.githubusercontent.com/122415129/229369610-8793628f-f272-4968-9bb4-eb7122668baa.png)
+![image](https://user-images.githubusercontent.com/122415129/229383413-51f509e3-23cf-4e83-b063-d29bc5ca65e2.png)
 
 ---
 ### Задание 4.
