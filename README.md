@@ -2,12 +2,12 @@
 ---
 ### Задание 1.
 
-![image](https://user-images.githubusercontent.com/122415129/228672961-991ed927-f890-4a88-877c-89db8064cc29.png)
+![image](https://user-images.githubusercontent.com/122415129/229341628-6debfd8e-bf12-4eb9-9a28-c9a43e18e948.png)
 
 ---
 ### Задание 2.
 
-![image](https://user-images.githubusercontent.com/122415129/228674963-eb3f0faf-7cd4-47d5-bc80-fb0dbfc87390.png)
+![image](https://user-images.githubusercontent.com/122415129/229352418-9310ded6-8682-4621-8ff8-588c31c717e0.png)
 
 ---
 ### Задание 3.
